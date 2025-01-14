@@ -1,5 +1,5 @@
 #This code when ran on a system with CAN module will open a GUI over an X-server ssh bridge and...
-#allow control of transmission of Tractor messages found on a JD 8R.
+#allow control of transmission of Tractor messages
 #Created by Ian Tempelmeyer 09/15/2024
 
 import can
